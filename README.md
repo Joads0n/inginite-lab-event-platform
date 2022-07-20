@@ -5,7 +5,4 @@ Projeto feito durante a imersão de react pela Rocketseat entre as datas de 19/0
 
 
 #### Preview do projeto: 
-<p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZctrqBOq3dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
+https://user-images.githubusercontent.com/38007646/180072756-38a61dca-2fe2-47c6-bff4-1016cb0e239e.mp4
